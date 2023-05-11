@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jai707
+- 👋 Hi, I’m [@Jai707](https://github.com/Jai707)
 - 👀 I’m interested in webapps
 - 🌱 I’m currently learning rust
 
