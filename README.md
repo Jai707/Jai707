@@ -1,4 +1,4 @@
-- 👋![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I’m [@Jai707](https://github.com/Jai707)
+- 👋Hi, I’m [@Jai707](https://github.com/Jai707)
 - 👀 I’m interested in webapps
 - 🌱 I’m currently learning flutter
 
