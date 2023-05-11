@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jai707
 - 👀 I’m interested in webapps
 - 🌱 I’m currently learning rust
-![](https://komarev.com/ghpvc/?username=jai707)
+![](https://komarev.com/ghpvc/?username=jai707&color=blueviolet)
 <!-- <p align="center">
   <a href="mailto:naruhitokaide@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
