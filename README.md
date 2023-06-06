@@ -2,7 +2,9 @@
 - 👀 I’m interested in webapps
 - 🌱 I’m currently learning php
 
-<p align="center">  ![](https://komarev.com/ghpvc/?username=jai707&color=blueviolet)
+<p align="center">  
+ 
+ ![](https://komarev.com/ghpvc/?username=jai707&color=blueviolet)
  
   
 </p>
