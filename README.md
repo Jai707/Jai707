@@ -4,8 +4,9 @@
 
 
 
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=jai707&color=blueviolet)
-
+</p>
 ---
 
 
