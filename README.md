@@ -1,8 +1,8 @@
 - 👋 Hi, I’m [@Jai707](https://github.com/Jai707)
 - 👀 I’m interested in webapps
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning php
 
-<p align="center">![](https://komarev.com/ghpvc/?username=jai707&color=blueviolet)
+<p align="center">  ![](https://komarev.com/ghpvc/?username=jai707&color=blueviolet)
  
   
 </p>
