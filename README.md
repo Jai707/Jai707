@@ -1,14 +1,11 @@
 - 👋 Hi, I’m [@Jai707](https://github.com/Jai707)
 - 👀 I’m interested in webapps
-- 🌱 I’m currently learning php
-
-<p align="center">  
- 
-                                                  ![](https://komarev.com/ghpvc/?username=jai707&color=blueviolet)
- 
+- 🌱 I’m currently learning pho
   
-</p>
-
+     ![](https://komarev.com/ghpvc/?username=jai707&color=blueviolet)
+ 
+ 
+ 
 ---
 
 
